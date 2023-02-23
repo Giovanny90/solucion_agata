@@ -1,0 +1,8 @@
+nltk
+pandas
+os
+glob
+sklearn
+numpy
+WordCloud
+matplotlib
