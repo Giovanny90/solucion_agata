@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: From Nanoscale to Global  Scale: Viruses as Drivers of Community Interactions and Ecosystem Function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Marenda</SignBlockName>
+<PO_EMAI>dmarenda@nsf.gov</PO_EMAI>
+<PO_PHON>7032922157</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the fellow that will contribute to the area of Rules of Life in innovative ways. Viruses that infect bacteria can profoundly affect the flow of nutrients and energy across the planet by changing the ways that bacteria process these nutrients (e.g. carbon and nitrogen) and interact with other organisms. However, there is a lack information about the pathways that connect these microscopic interactions to impacts on global processes. This project will use species that live inside carnivorous purple pitcher plants to study the mechanisms through which viruses alter the role of bacteria in the ecosystem. The plant’s large native range, from northern Florida to southern Canada, also provides an opportunity to study the distribution patterns of viruses and their associated bacterial communities on a continental scale. Bacteria are a key component of global nutrient cycles, socially and economically important industries (e.g. waste-water treatment and dairy production), as well as human, agricultural, and ecological health. This research will fill critical knowledge gaps in understanding the role that viruses play in these processes. The fellow will work with Boise State University and other programs to provide training for undergraduate and graduate students and develop workshops in microbial ecology for Idaho educators and coding for young women.&lt;br/&gt;&lt;br/&gt;This project will investigate three mechanisms through which bacteriophages alter microbial metabolisms: host death, nonlethal effects of prophage, and host interactions with grazers. The study will integrate observational, experimental, and computational approaches throughout two phases. First, the fellow will conduct a biogeographic survey of phage abundance and diversity, as well as that of their host communities, spanning the purple pitcher plant’s native range. The fellow will compare these communities with communities from non-native pitcher plants found in Switzerland, which lack dipteran larvae commonly found in North American pitcher plants. Viral and host metagenomes will be used to generate taxonomic assignments, create metabolic profiles for bacterial metagenomes, and predict host identity for viral metagenomes. Second, the fellow will perform field and laboratory experiments to test how host death, prophage, and altered interactions between bacteria and grazers (protists) affect broad microbial metabolic activity using Biolog EcoPlates, respirations rates using the MicroResp system, and metabolic processes important for insect decomposition (e.g. chitinases and proteases) using enzyme assays. The fellow will work with the Idaho STEM Action Center to develop a workshop on microbial ecology for Idaho educators and instruct courses on coding and critical-thinking skills at the All Girls Coding Camp through the Discovery Center of Idaho.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010715</AwardID>
+<Investigator>
+<FirstName>Erica</FirstName>
+<LastName>Holdridge</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erica M Holdridge</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000813343</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Holdridge, Erica Marie</Name>
+<CityName>Tallahassee</CityName>
+<ZipCode>32304</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>Boise</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837250001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1127</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Viruses are the most abundant biological entities on the planet. The oceans alone contain 10<sup>30 </sup>individual viral particles ? that?s about 5 million viruses for every star in the observable universe. The majority of these are viruses that infect bacteria, known as bacteriophage (?bacteria eaters?). In contrast to their abundance, we know relatively little about the role that viruses play in natural ecosystems. We do know that, by altering the growth, behavior, and metabolism of their bacterial hosts, these viruses can have massive impacts on the way that nutrients like carbon, nitrogen, and phosphorus move through ecosystems. However, it is difficult to understand exactly how viruses affect these processes in large, complex systems like oceans. This project used a model ecological community to explore the mechanisms through which viruses affect ecosystem processes and incorporated techniques from bioinformatics, molecular ecology, and experimental microbiology.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carnivorous pitcher plants obtain nitrogen and phosphorus by decomposing prey ? primarily insects ? that fall inside of their cup-shaped leaves. While they do secrete some of their own digestive enzymes, they rely heavily on a community of bacteria that live inside of their leaves to aid in the process of breaking down their prey. This community of bacteria, as well as other microbes and invertebrates associated with pitcher plants, has been extensively studied by ecologists and is an excellent model for understanding species interactions and ecosystem function. In addition, this type of carnivory in plants has evolved independently at least five times, with representatives in North America, southeast Asia, Australia, and South America. This provides an interesting opportunity to compare the diversity and function of these plant-associated communities at a continental and global scale.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Previous work has shown that bacterial communities associated with North American and southeast Asian pitcher plants are taxonomically distinct but are metabolically similar. In this project, we used a custom bioinformatics pipeline to metagenomic sequence data from microbial communities found in 16 pitcher plants (8 North American and 8 southeast Asian) to identify and characterize bacteriophage found in these communities. Both groups of pitcher plants contained a diverse assemblage of viruses that primarily belong to the order <em>Caudovirales </em>(the ?tailed phages?). A surprisingly high proportion of these viruses are lysogenic, meaning that they reproduce by incorporating their DNA into their hosts? genomes, which is common in environments where hosts are in low abundance or the environment (temperature, pH, UV light) is stressful or unpredictable. These viruses can infect several genera of bacteria that are commonly found in pitcher plant-associated bacterial communities. Genes that we found in some viruses suggest that they may even contribute to the process of decomposing the plant?s prey by breaking down chitin, the primary component of insect exoskeletons.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project produced one manuscript that is currently in review for publication and an abundance of pilot data that will be used to fuel other projects and funding opportunities. The results of this work have been presented at national conferences, including the Ecological Society of America meeting and the American Society for Microbiology meeting. Two undergraduate researchers received training in laboratory and bioinformatics techniques as part of this project and both presented their work at the Idaho Conference on Undergraduate Research (ICUR). We also provided research training to ten undergraduates from Boise State University and the College of Western Idaho through a Vertically Integrated Project (VIP). Finally, in collaboration with the Idaho STEM Action Center, we created and disseminated a continuing education course on virus ecology for K-12 teachers that included classroom activities and laboratory materials.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/11/2022<br>      Modified by: Erica&nbsp;M&nbsp;Holdridge</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2010715/2010715_10680455_1668203875122_chitinase_figure--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2010715/2010715_10680455_1668203875122_chitinase_figure--rgov-800width.jpg" title="Figure 4 from Holdridge et al. (submitted for publication)"><img src="/por/images/Reports/POR/2022/2010715/2010715_10680455_1668203875122_chitinase_figure--rgov-66x44.jpg" alt="Figure 4 from Holdridge et al. (submitted for publication)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">a) Chitinase gene tree constructed from pitcher plant, bacterial, and viral genes. b) Bar graph representing the average number of chitinase proteins found in viruses. c) Gene map of a Pseudomonas phage genome that has a gene related to chitin degredation (shown in red).</div> <div class="imageCredit">E. Holdridge, M. Emmen, and L. Bittleston</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Erica&nbsp;M&nbsp;Holdridge</div> <div class="imageTitle">Figure 4 from Holdridge et al. (submitted for publication)</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[             Viruses are the most abundant biological entities on the planet. The oceans alone contain 1030 individual viral particles ? that?s about 5 million viruses for every star in the observable universe. The majority of these are viruses that infect bacteria, known as bacteriophage (?bacteria eaters?). In contrast to their abundance, we know relatively little about the role that viruses play in natural ecosystems. We do know that, by altering the growth, behavior, and metabolism of their bacterial hosts, these viruses can have massive impacts on the way that nutrients like carbon, nitrogen, and phosphorus move through ecosystems. However, it is difficult to understand exactly how viruses affect these processes in large, complex systems like oceans. This project used a model ecological community to explore the mechanisms through which viruses affect ecosystem processes and incorporated techniques from bioinformatics, molecular ecology, and experimental microbiology.              Carnivorous pitcher plants obtain nitrogen and phosphorus by decomposing prey ? primarily insects ? that fall inside of their cup-shaped leaves. While they do secrete some of their own digestive enzymes, they rely heavily on a community of bacteria that live inside of their leaves to aid in the process of breaking down their prey. This community of bacteria, as well as other microbes and invertebrates associated with pitcher plants, has been extensively studied by ecologists and is an excellent model for understanding species interactions and ecosystem function. In addition, this type of carnivory in plants has evolved independently at least five times, with representatives in North America, southeast Asia, Australia, and South America. This provides an interesting opportunity to compare the diversity and function of these plant-associated communities at a continental and global scale.              Previous work has shown that bacterial communities associated with North American and southeast Asian pitcher plants are taxonomically distinct but are metabolically similar. In this project, we used a custom bioinformatics pipeline to metagenomic sequence data from microbial communities found in 16 pitcher plants (8 North American and 8 southeast Asian) to identify and characterize bacteriophage found in these communities. Both groups of pitcher plants contained a diverse assemblage of viruses that primarily belong to the order Caudovirales (the ?tailed phages?). A surprisingly high proportion of these viruses are lysogenic, meaning that they reproduce by incorporating their DNA into their hosts? genomes, which is common in environments where hosts are in low abundance or the environment (temperature, pH, UV light) is stressful or unpredictable. These viruses can infect several genera of bacteria that are commonly found in pitcher plant-associated bacterial communities. Genes that we found in some viruses suggest that they may even contribute to the process of decomposing the plant?s prey by breaking down chitin, the primary component of insect exoskeletons.              This project produced one manuscript that is currently in review for publication and an abundance of pilot data that will be used to fuel other projects and funding opportunities. The results of this work have been presented at national conferences, including the Ecological Society of America meeting and the American Society for Microbiology meeting. Two undergraduate researchers received training in laboratory and bioinformatics techniques as part of this project and both presented their work at the Idaho Conference on Undergraduate Research (ICUR). We also provided research training to ten undergraduates from Boise State University and the College of Western Idaho through a Vertically Integrated Project (VIP). Finally, in collaboration with the Idaho STEM Action Center, we created and disseminated a continuing education course on virus ecology for K-12 teachers that included classroom activities and laboratory materials.          Last Modified: 11/11/2022       Submitted by: Erica M Holdridge]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

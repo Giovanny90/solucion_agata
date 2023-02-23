@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  COGNITIVE INTELLIGENCE CAPABILITIES IN REAL-TIME EDGE COMPUTING AND DISTRIBUTED INTERNET OF THINGS (IOT) PLATFORMS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>248900.00</AwardTotalIntnAmount>
+<AwardAmount>248900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to demonstrate the cognitive runtime capabilities of edge native Internet of Things (IoT) platform that offers significant gain in incremental operational intelligence, real-time monitoring, and autonomic functions. As the edge computing capabilities infiltrate into industrial IoT application domains to overcome the limitation of centralized computing (latency, bandwidth, and single point of failure), constrained hardware (compute and storage) resources, and data availability. The proposed technology may adjust with the changing cyber-physical environment, extend situational awareness, protect against cyber security threats, minimize the cost of scaling network and cloud infrastructures, and deliver extreme responsiveness within mission critical ecosystems such as smart grid surveillance, remote patient monitoring, autonomous vehicles, and defense weaponry systems.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will research a cognitive internet-of-things (IoT) runtime that enhances process automation and analytical capabilities of edge native M2M/IoT solutions. The recent trends of edge computing have created service opportunities catering to real-time use cases closer to the operating environment. The most common predefined rule-based logic and structured intelligence on edge nodes fails to deliver scalability, autonomy, interoperability, and intelligent control operations. The artificial intelligence (AI) / Machine Learning (ML) models usually perform better on cloud or multiclause server infrastructure in a batch mode. This invention closes the existing gap and further advances the distributed edge computing capabilities by introducing Cognitive AI models that introduce semantic learning with incremental data from within embedded runtime and develop reasoning through interactions within the connected environment. The research and development on Per-to-Peer collaboration across the edge nodes overcomes the limitations of constrained resource and executes workflows. The runtime architecture simulates the human nervous system’s anatomical layers and systematic coordination of neuro-motor operations.  The proposed design patterns of analytical models and distributed intelligence will introduce a realistic implementation of smarter decision support systems on the edge that could adapt to ever changing operational contexts and introduce diverse intelligent operations through collaborative learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036503</AwardID>
+<Investigator>
+<FirstName>Prasenjit</FirstName>
+<LastName>Bhadra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Prasenjit Bhadra</PI_FULL_NAME>
+<EmailAddress><![CDATA[prasenjit@ranial.com]]></EmailAddress>
+<NSF_ID>000823561</NSF_ID>
+<StartDate>11/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RANIAL SYSTEMS INC</Name>
+<CityName>FOREST HILLS</CityName>
+<ZipCode>113757308</ZipCode>
+<PhoneNumber>9174350700</PhoneNumber>
+<StreetAddress>10460 QUEENS BLVD APT 4H</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CLTKARNURMW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RANIAL SYSTEMS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ranial Systems Inc.]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>101760699</ZipCode>
+<StreetAddress><![CDATA[551 5th Ave, Ste # 630]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4097</Code>
+<Text>NETWORKING RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~248900</FUND_OBLG>
+</Award>
+</rootTag>

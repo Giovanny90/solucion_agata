@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Physics (PHY) Rateless Codec Technology for Proximity Space Links]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project stems from developing a wireless communications technology based on physical (PHY) layer rateless codes.  If successfully demonstrated, these codes could provide high data rates with low computational costs, minimum latency, and enhanced energy efficiency, i.e., long battery life. The initial target of the technological innovation is the space communications market - both commercial and government space programs. Space communication systems are a critical and integral part of every space mission. This Phase I project focuses on an enabling technology addressing capability gaps that could provide cheaper and faster solutions for the data communication systems. Commercialization of the proposed technology is beneficial to the US economy and government since the development of innovative technologies for the space sector contributes to economic growth in the emerging space economy. The proposed next-generation wireless communications technology may also support a wide variety of applications and use cases in the terrestrial wireless market. These application areas include 5G Ultra Reliable Low Latency Communications (URLLC), Industrial Internet of Things (IoT) use cases, and unmanned aerial vehicle (UAV) communications.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project is focused on developing a PHY rateless codes-based novel adaptive transmission technology for the reliable transmission of information bits between a wireless transmitter and receiver. PHY rateless codes have the innate ability to adapt both the code construction and the number of code bits for an as-needed transmission of code bits. The adaptive transmission technology in the PHY layer interacts with the automatic repeat request (ARQ) protocols in the data link layer (DLL) affecting its sequence of operations. The DLL designed for the traditional fixed-rate coding is a poor match for the PHY rateless system. A key goal of the proposed Phase I project is to design a simple and yet effective DLL for a proximity space link using PHY rateless codes which optimizes the throughput, establishing the technical feasibility. The Phase I project aims to add new design features to the PHY rateless encoder and decoder based on deep learning/auto encoder enhancements, structured permutations, and efficient algorithms/techniques for solving sparse linear systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/28/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052395</AwardID>
+<Investigator>
+<FirstName>Amogh</FirstName>
+<LastName>Rajanna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amogh Rajanna</PI_FULL_NAME>
+<EmailAddress><![CDATA[Amogh.Rajanna@ieee.org]]></EmailAddress>
+<NSF_ID>000836457</NSF_ID>
+<StartDate>10/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TFWIRELESS INC.</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554101414</ZipCode>
+<PhoneNumber>6129994959</PhoneNumber>
+<StreetAddress>3210 W 45TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2E9BZ5W11N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TFWIRELESS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TFWIRELESS INC.]]></Name>
+<CityName>Burbank</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>915044015</ZipCode>
+<StreetAddress><![CDATA[1220 N 5 St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA30</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~256000</FUND_OBLG>
+<FUND_OBLG>2023~20000</FUND_OBLG>
+</Award>
+</rootTag>
